@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Tue Sep 09 17:24:01 2014
+# Process ID: 2428
+# Log file: C:/Users/VRL/LED_HelloWorld/LED_HelloWorld.runs/impl_1/design_led_hello_world_wrapper.vdi
+# Journal file: C:/Users/VRL/LED_HelloWorld/LED_HelloWorld.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source design_led_hello_world_wrapper.tcl -notrace

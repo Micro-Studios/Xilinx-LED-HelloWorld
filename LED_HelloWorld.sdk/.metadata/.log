@@ -1,0 +1,12 @@
+!SESSION 2014-09-09 17:28:50.059 -----------------------------------------------
+eclipse.buildId=2014.2
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:/Users/VRL/LED_HelloWorld/LED_HelloWorld.sdk
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-09 17:30:28.089
+!MESSAGE Indexed 'led_hello_world_bsp' (136 sources, 147 headers) in 2.78 sec: 6,425 declarations; 30,598 references; 65 unresolved inclusions; 9 syntax errors; 38 unresolved names (0.10%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-09 17:30:28.260
+!MESSAGE Indexed 'led_hello_world' (2 sources, 25 headers) in 0.16 sec: 961 declarations; 1,291 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
